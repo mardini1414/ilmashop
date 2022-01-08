@@ -27,7 +27,7 @@ function FooterLink() {
         </li>
         <li>
           <a className="text-light text-decoration-none" href="#testimonial">
-            <small>Testimonia</small>
+            <small>Testimonial</small>
           </a>
         </li>
       </ul>
